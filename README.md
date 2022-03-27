@@ -37,14 +37,14 @@ Have fun browsing!
 ## No Lewd!
 
 This application is designed to quickly and efficiently encrypt/decrypt images. 
-It utilizes a rolling algorithm for image manipulation with a key and an increment value, which makes it practically invulnerable against regulations. 
+It utilizes a rolling algorithm for image encryption/decryption which makes itself practically invulnerable against regulations. 
 
-The encrypted images, if sent through some media, have to be in their original quality - though I have updated the algorithm so that as long as the resolution of the image does not change, even after compression, some information should still be recoverable. 
+The encrypted images, if sent through some media, should be in their original quality - though I have recently updated the algorithm so that even after compression, at least some information should still be recoverable. 
 
-该应用可帮助你快速、高效地加密、解密涩图（或者其他图片）。
-滚动式的加密算法（包括一个密钥及一个加算值）使它在对抗监管（河蟹）时几乎无敌。
+该应用可帮助你快速、高效地加密、解密涩图。
+滚动式的加密算法使它在对抗监管（河蟹）时几乎无敌。
 
-如果要通过某些平台发送加密图片的话，必须以原图质量发送。不过我最近更新了算法，所以现在即便不以原图发送，只要图片本身的分辨率不变化的话，还是可以恢复部分内容的。
+如果要通过某些平台发送加密图片的话，请尽量以原图质量发送；不过最近更新了算法，所以现在即便不以原图发送，还是有很大几率可以恢复部分内容的。
 
 ![No Lewd! - Screenshot 1](./Screenshots/No_Lewd_1.jpg)
 
