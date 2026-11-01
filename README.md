@@ -1,7 +1,7 @@
 # My Android Application Collection
 
 > [!IMPORTANT] 
-> Um... So yeah... Now the apks are actually release builds. (oops...) (2026/11/01)
+> Um... So yeah... Now the apks are actually release builds. (Oops...) (2026/11/01)
 
 ## What's this? / 这是什么？
 
