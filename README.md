@@ -1,5 +1,8 @@
 # My Android Application Collection
 
+> [!IMPORTANT] Um... So yeah...
+> Now the apks are actually release builds. (oops...) (2026/11/01)
+
 ## What's this? / 这是什么？
 
 This repository contains some of the weird little Android applications I've built. 
@@ -36,6 +39,9 @@ Have fun browsing!
 
 ## No Lewd!
 
+> [!TIP]
+> Check out the new & improved [PWA version of the app](https://1st.moe/sites/no-lewd/), available on my [project page](https://1st.moe/projects/#no-lewd)! (2026/11/01)
+
 This application is designed to quickly and efficiently encrypt/decrypt images. 
 It utilizes a rolling algorithm for image encryption/decryption which makes itself practically invulnerable against regulations. 
 
@@ -51,6 +57,9 @@ The encrypted images, if sent through some media, should be in their original qu
 ![No Lewd! - Screenshot 2](./Screenshots/No_Lewd_2.jpg)
 
 ## Shitpost Generator
+
+> [!TIP] 小贴士
+> 此应用已有新的 [PWA 版本](https://1st.moe/sites/cringe-engine/)可用, 有兴趣的话请来我的[项目页面](https://1st.moe/projects/#cringe-engine)看看吧！(2026/11/01)
 
 顾名思义，该应用是用来一键生成shitpost（主要是魔怔话）的。
 
